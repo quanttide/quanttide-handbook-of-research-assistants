@@ -3,4 +3,5 @@ root: index.md
 chapters:
 - file: human_resources/README.md
   sections:
+  - file: human_resources/training.md
   - file: human_resources/performance.md

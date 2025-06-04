@@ -6,7 +6,17 @@
 
 ## 中级
 
-Python训练营 -> 
+### 编程
+
+可以读懂并跑通助研项目代码：https://github.com/quanttide/patent-checker
+
+### 文献
+
+能够AI辅助读文章总结内容
+
+### 组织
+
+熟悉文档和会议协作流程。
 
 ## 高级
 

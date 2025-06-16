@@ -5,3 +5,4 @@ chapters:
   sections:
   - file: human_resources/training.md
   - file: human_resources/performance.md
+- file: project_management/README.md
